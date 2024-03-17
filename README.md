@@ -18,7 +18,7 @@
 > 
 >    "start": "nodemon app.js --exec      babel-node --presets es2015"
 >  
-> },
+> }, 
 
 >nodemon kurulu değilse "npm install  nodemon --save-dev"  yazarak kurabilirsiniz.
 
